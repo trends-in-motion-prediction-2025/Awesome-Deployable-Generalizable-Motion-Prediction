@@ -277,6 +277,7 @@ Improving transferability for cross-domain trajectory prediction via neural stoc
 * Generative causal representation learning for out-of-distribution motion forecasting
 * Causal intervention for human trajectory prediction with cross attention mechanism
 * Cadet: a causal disentanglement approach for robust trajectory prediction in autonomous driving
+* Curb Your Attention: Causal Attention Gating for Robust Trajectory Prediction in Autonomous Driving
 
 #### Few-Shot and Test-Time Adaptation
 * Online adaptation of neural network models by modified extended kalman filter for customizable and transferable driving behavior prediction
